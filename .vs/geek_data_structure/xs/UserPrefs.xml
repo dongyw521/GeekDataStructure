@@ -1,4 +1,23 @@
 ﻿<Properties StartupConfiguration="{66E78F54-6599-4E8E-A82D-A0ECFAE4FFDB}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.geek__data__structure FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="geek_data_structure/Program.cs">
+    <Files>
+      <File FileName="geek_data_structure/Program.cs" Line="2" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="geek_data_structure" expanded="True">
+            <Node name="geek_data_structure" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.geek__data__structure FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -5,6 +5,10 @@ VisualStudioVersion = 25.0.1704.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geek_data_structure", "geek_data_structure\geek_data_structure.csproj", "{66E78F54-6599-4E8E-A82D-A0ECFAE4FFDB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "math_structure", "math_structure\math_structure.csproj", "{55A4F90E-7728-44B3-8C0B-C3D8D98F633A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "console_proj", "console_proj\console_proj.csproj", "{70877E90-2ACE-4965-B90E-3CF6A742A094}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{66E78F54-6599-4E8E-A82D-A0ECFAE4FFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66E78F54-6599-4E8E-A82D-A0ECFAE4FFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66E78F54-6599-4E8E-A82D-A0ECFAE4FFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A4F90E-7728-44B3-8C0B-C3D8D98F633A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A4F90E-7728-44B3-8C0B-C3D8D98F633A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A4F90E-7728-44B3-8C0B-C3D8D98F633A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A4F90E-7728-44B3-8C0B-C3D8D98F633A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70877E90-2ACE-4965-B90E-3CF6A742A094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70877E90-2ACE-4965-B90E-3CF6A742A094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70877E90-2ACE-4965-B90E-3CF6A742A094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70877E90-2ACE-4965-B90E-3CF6A742A094}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

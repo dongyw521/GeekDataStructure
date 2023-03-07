@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/math_structure.props" />
+</Project>
