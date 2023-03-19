@@ -1,0 +1,15 @@
+/Users/dyw/geek/geek_data_structure/geek_data_structure/bin/Debug/net6.0/geek_data_structure
+/Users/dyw/geek/geek_data_structure/geek_data_structure/bin/Debug/net6.0/geek_data_structure.deps.json
+/Users/dyw/geek/geek_data_structure/geek_data_structure/bin/Debug/net6.0/geek_data_structure.runtimeconfig.json
+/Users/dyw/geek/geek_data_structure/geek_data_structure/bin/Debug/net6.0/geek_data_structure.dll
+/Users/dyw/geek/geek_data_structure/geek_data_structure/bin/Debug/net6.0/geek_data_structure.pdb
+/Users/dyw/geek/geek_data_structure/geek_data_structure/obj/Debug/net6.0/geek_data_structure.csproj.AssemblyReference.cache
+/Users/dyw/geek/geek_data_structure/geek_data_structure/obj/Debug/net6.0/geek_data_structure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dyw/geek/geek_data_structure/geek_data_structure/obj/Debug/net6.0/geek_data_structure.AssemblyInfoInputs.cache
+/Users/dyw/geek/geek_data_structure/geek_data_structure/obj/Debug/net6.0/geek_data_structure.AssemblyInfo.cs
+/Users/dyw/geek/geek_data_structure/geek_data_structure/obj/Debug/net6.0/geek_data_structure.csproj.CoreCompileInputs.cache
+/Users/dyw/geek/geek_data_structure/geek_data_structure/obj/Debug/net6.0/geek_data_structure.dll
+/Users/dyw/geek/geek_data_structure/geek_data_structure/obj/Debug/net6.0/refint/geek_data_structure.dll
+/Users/dyw/geek/geek_data_structure/geek_data_structure/obj/Debug/net6.0/geek_data_structure.pdb
+/Users/dyw/geek/geek_data_structure/geek_data_structure/obj/Debug/net6.0/geek_data_structure.genruntimeconfig.cache
+/Users/dyw/geek/geek_data_structure/geek_data_structure/obj/Debug/net6.0/ref/geek_data_structure.dll
