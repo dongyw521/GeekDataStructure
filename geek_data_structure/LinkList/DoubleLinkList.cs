@@ -1,5 +1,9 @@
 namespace geek_data_structure.LinkList;
 
+/// <summary>
+/// 双链表
+/// </summary>
+/// <typeparam name="T"></typeparam>
 internal class DoubleLinkList<T>
 {
     public DoubleLinkListNode<T> First;

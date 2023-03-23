@@ -1,5 +1,9 @@
 namespace geek_data_structure.LinkList;
 
+/// <summary>
+/// 循环链表
+/// </summary>
+/// <typeparam name="T"></typeparam>
 internal class CircleLinkList<T>
 {
     public SingleLinkListNode<T> Last;
